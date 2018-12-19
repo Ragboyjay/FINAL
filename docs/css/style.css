@@ -11,19 +11,19 @@
 
 body {
   background: #fff;
-  color: #666666;
+  color: #D3D3D3;
   font-family: "Open Sans", sans-serif;
 }
 
 a {
-  color: #0000FF;
+  color: #18d26e;
   transition: 0.5s;
 }
 
 a:hover,
 a:active,
 a:focus {
-  color: ##0000FF;
+  color: #18d26e;
   outline: none;
   text-decoration: none;
 }
